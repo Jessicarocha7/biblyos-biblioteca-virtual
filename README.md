@@ -16,7 +16,7 @@ Este é o projeto desenvolvido como conclusão da disciplina de Programação We
 
 1. Instale o XAMPP e inicie Apache e MySQL
 2. Copie este projeto para a pasta `htdocs`
-3. Acesse `http://localhost/portfolio` no navegador
+3. Acesse `http://localhost/BIBLYOS
 4. Importe o banco de dados:
    - Acesse `localhost/phpmyadmin`
    - Crie um banco chamado `portfolio`
@@ -24,4 +24,4 @@ Este é o projeto desenvolvido como conclusão da disciplina de Programação We
 
 ## Autor
 
-Desenvolvido por [Seu Nome]
+Desenvolvido por Jessica Azevedo Rocha.
