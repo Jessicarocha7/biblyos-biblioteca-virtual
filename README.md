@@ -19,7 +19,7 @@ Este é o projeto desenvolvido como conclusão da disciplina de Programação We
 3. Acesse `http://localhost/BIBLYOS
 4. Importe o banco de dados:
    - Acesse `localhost/phpmyadmin`
-   - Crie um banco chamado `portfolio`
+   - Crie um banco chamado `biblioteca_digital_biblyos.sql`
    - Importe o arquivo `banco.sql`
 
 ## Autor
